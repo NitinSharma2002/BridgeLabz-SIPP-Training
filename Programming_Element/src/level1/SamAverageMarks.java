@@ -1,4 +1,4 @@
-package Level1;
+package level1;
 
 public class SamAverageMarks {
     public static void main(String[] args){

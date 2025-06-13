@@ -1,6 +1,6 @@
 package level2;
 
-import java.util.*;
+import java.util.Scanner;
 public class quotientandremaind {
 
     public static void main(String[] args) {

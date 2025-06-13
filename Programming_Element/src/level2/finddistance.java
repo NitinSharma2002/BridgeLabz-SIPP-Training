@@ -1,6 +1,6 @@
 package level2;
 
-import java.util.*;
+import java.util.Scanner;
 public class finddistance {
 
     public static void main(String[] args) {
