@@ -6,10 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/ControlFlow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Extras/Extras.iml" filepath="$PROJECT_DIR$/Extras/Extras.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming_Element/Programming_Element.iml" filepath="$PROJECT_DIR$/Programming_Element/Programming_Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Strings_Extras/Strings_Extras.iml" filepath="$PROJECT_DIR$/Strings_Extras/Strings_Extras.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridgelabz2.iml" filepath="$PROJECT_DIR$/bridgelabz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/classandobjects/classandobjects.iml" filepath="$PROJECT_DIR$/OOPS/classandobjects/classandobjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_String_prac/java_string_prac.iml" filepath="$PROJECT_DIR$/Java_String_prac/java_string_prac.iml" />
     </modules>
   </component>
 </project>
