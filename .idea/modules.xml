@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridgelabz2.iml" filepath="$PROJECT_DIR$/bridgelabz2.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/classandobjects/classandobjects.iml" filepath="$PROJECT_DIR$/OOPS/classandobjects/classandobjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/constructorandaccessmodifiers/constructorandaccessmodifiers.iml" filepath="$PROJECT_DIR$/OOPS/constructorandaccessmodifiers/constructorandaccessmodifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_String_prac/java_string_prac.iml" filepath="$PROJECT_DIR$/Java_String_prac/java_string_prac.iml" />
     </modules>
   </component>
