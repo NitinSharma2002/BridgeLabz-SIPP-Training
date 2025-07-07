@@ -12,8 +12,10 @@
       <module fileurl="file://$PROJECT_DIR$/bridgelabz2.iml" filepath="$PROJECT_DIR$/bridgelabz2.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/classandobjects/classandobjects.iml" filepath="$PROJECT_DIR$/OOPS/classandobjects/classandobjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/constructorandaccessmodifiers/constructorandaccessmodifiers.iml" filepath="$PROJECT_DIR$/OOPS/constructorandaccessmodifiers/constructorandaccessmodifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/OOPS/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_String_prac/java_string_prac.iml" filepath="$PROJECT_DIR$/Java_String_prac/java_string_prac.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/keyboards_and_Instance/keyboards_and_Instance.iml" filepath="$PROJECT_DIR$/OOPS/keyboards_and_Instance/keyboards_and_Instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/polymorphism_Encapsulation/polymorphism_Encapsulation.iml" filepath="$PROJECT_DIR$/OOPS/polymorphism_Encapsulation/polymorphism_Encapsulation.iml" />
     </modules>
   </component>
 </project>
