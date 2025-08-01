@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Big-O-Notation/Big-O-Notation.iml" filepath="$PROJECT_DIR$/src/Big-O-Notation/Big-O-Notation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/LinearAndBinarySearch/LinearAndBinarySearch.iml" filepath="$PROJECT_DIR$/src/LinearAndBinarySearch/LinearAndBinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/src/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/StackAndQueues/StackAndQueues.iml" filepath="$PROJECT_DIR$/src/StackAndQueues/StackAndQueues.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridgelabz2.iml" filepath="$PROJECT_DIR$/bridgelabz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/sorting_algoritms/sorting_algoritms.iml" filepath="$PROJECT_DIR$/src/sorting_algoritms/sorting_algoritms.iml" />
     </modules>
   </component>
 </project>
